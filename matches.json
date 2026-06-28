@@ -4,7 +4,7 @@
       "id": 1,
       "home": "England",
       "away": "France",
-      "homeScore": 2,
+      "homeScore": 1,
       "awayScore": 1,
       "status": "live"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "home": "Brazil",
       "away": "Argentina",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "scheduled"
     }
