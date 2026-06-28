@@ -1,13 +1,14 @@
 {
+  "version": 1,
   "matches": [
     {
       "id": 1,
       "home": "South Africa",
       "away": "Canada",
       "startTime": 1780000000,
-      "homeScore": 2,
+      "homeScore": 0,
       "awayScore": 0,
-      "status": "live",
+      "status": "scheduled",
       "winner": null
     }
   ]
