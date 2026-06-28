@@ -1,15 +1,16 @@
 {
-  "version": 2,
-  "matches": [
+  "id": 1,
+  "home": "South Africa",
+  "away": "Canda",
+  "homeScore": 1,
+  "awayScore": 0,
+  "status": "live",
+  "events": [
     {
-      "id": 1,
-      "home": "South Africa",
-      "away": "Canada",
-      "startTime": 1780000000,
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "scheduled",
-      "winner": null
+      "type": "goal",
+      "player": "Ronwen Williams",
+      "assist": "Alvarez",
+      "minute": 23
     }
   ]
 }
