@@ -1,21 +1,12 @@
 {
-  "version": 1,
   "matches": [
     {
       "id": 1,
-      "home": "Argentina",
-      "away": "France",
-      "homeScore": 1,
+      "home": "South Africa",
+      "away": "Canada",
+      "homeScore": 0,
       "awayScore": 0,
-      "status": "live",
-      "events": [
-        {
-          "type": "goal",
-          "player": "Messi",
-          "assist": "Alvarez",
-          "minute": 23
-        }
-      ]
+      "status": "scheduled"
     }
   ]
 }
