@@ -1,16 +1,21 @@
 {
-  "id": 1,
-  "home": "South Africa",
-  "away": "Canda",
-  "homeScore": 1,
-  "awayScore": 0,
-  "status": "live",
-  "events": [
+  "version": 1,
+  "matches": [
     {
-      "type": "goal",
-      "player": "Ronwen Williams",
-      "assist": "Alvarez",
-      "minute": 23
+      "id": 1,
+      "home": "Argentina",
+      "away": "France",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "live",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Messi",
+          "assist": "Alvarez",
+          "minute": 23
+        }
+      ]
     }
   ]
 }
