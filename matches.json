@@ -1,0 +1,24 @@
+{
+  "matches": [
+    {
+      "id": 1,
+      "home": "England",
+      "away": "France",
+      "startTime": 1780000000,
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "finished",
+      "winner": "England"
+    },
+    {
+      "id": 2,
+      "home": "Brazil",
+      "away": "Germany",
+      "startTime": 1780003600,
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "scheduled",
+      "winner": null
+    }
+  ]
+}
