@@ -1,17 +1,21 @@
 {
-{
-  "id": 1,
-  "home": "England",
-  "away": "France",
-  "homeScore": 1,
-  "awayScore": 0,
-  "status": "live",
-  "events": [
+  "version": 1,
+  "matches": [
     {
-      "type": "goal",
-      "player": "Kane",
-      "assist": "Saka",
-      "minute": 23
+      "id": 1,
+      "home": "England",
+      "away": "France",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "live",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Kane",
+          "assist": "Saka",
+          "minute": 23
+        }
+      ]
     }
   ]
 }
