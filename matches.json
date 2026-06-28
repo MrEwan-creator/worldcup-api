@@ -1,13 +1,13 @@
 {
-  "version": 6,
+  "version": 7,
   "matches": [
     {
       "id": 1,
       "home": "England",
       "away": "France",
-      "homeScore": 1,
+      "homeScore": 0,
       "awayScore": 0,
-      "status": "live",
+      "status": "upcoming",
       "events": [
         {
           "type": "goal",
