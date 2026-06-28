@@ -1,19 +1,19 @@
 {
-  "version": 4,
+  "version": 5,
   "matches": [
     {
       "id": 1,
       "home": "England",
       "away": "France",
-      "homeScore": 4,
+      "homeScore": 0,
       "awayScore": 0,
-      "status": "live",
+      "status": "upcoming",
       "events": [
         {
           "type": "goal",
-          "player": "Kane",
-          "assist": "Saka",
-          "minute": 48
+          "player": "null",
+          "assist": "null",
+          "minute": 0
         }
       ]
     }
